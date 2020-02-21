@@ -1,5 +1,5 @@
 # BRENDON DULAM
-### Yokohama, Kanagawa Japan · 080-7595-0143
+### Yokohama, Kanagawa Japan
 ### brendondulam06@gmail.com · linkedin.com/in/bldulam1
 
 A highly motivated and output driven software developer with a focus on web applications development, data analysis and automation, looking for a Full-stack developer role. 
